@@ -1,0 +1,867 @@
+Year,Company,Stage_Level_CO2e_Available,Country,Industry,Product_Weight,PCF_Protocol,PCF
+2014,Kellogg Company,Yes,USA,Food Products,0.7485,Not reported,2.0
+2015,Kellogg Company,Yes,USA,Not used for 2015 reporting,0.7485,Not reported,2.0
+2013,KNOLL INC,Yes,USA,Building Products,20.68,Not reported,72.54
+2017,"Konica Minolta, Inc.",Yes,Japan,"Electronic Equipment, Instruments & Components",110.0,ISO,1488.0
+2017,"Konica Minolta, Inc.",Yes,Japan,"Electronic Equipment, Instruments & Components",110.0,ISO,1818.0
+2017,"Konica Minolta, Inc.",Yes,Japan,"Electronic Equipment, Instruments & Components",110.0,ISO,2274.0
+2016,"Kuraray Co., Ltd.",No,Japan,Chemicals,1500.0,Not reported,10000.0
+2013,Lafarge S.A.,No,France,Construction Materials,1000.0,Not reported,1102.0
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.7665,Not reported,15.0
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.7665,Not reported,15.0
+2016,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.7665,Not reported,15.0
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.997,Not reported,15.0
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.997,Not reported,16.0
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.997,PAS2050,16.0
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.997,PAS2050,16.0
+2016,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.997,PAS2050,16.0
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.68,PAS2050,8.6
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.68,Not reported,8.6
+2016,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.88,Not reported,8.6
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.68,Not reported,7.7
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.68,Not reported,7.7
+2016,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.88,Not reported,7.7
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.997,Not reported,15.0
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.997,Not reported,15.0
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.997,Not reported,16.0
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.997,Not reported,16.0
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.68,Not reported,16.0
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.68,Not reported,16.0
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.7665,Not reported,16.0
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.7665,Not reported,16.0
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.7665,Not reported,16.0
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.7665,Not reported,16.0
+2014,Levi Strauss & Co.,No,USA,"Textiles, Apparel & Luxury Goods",0.7665,Not reported,15.0
+2015,Levi Strauss & Co.,No,USA,Not used for 2015 reporting,0.7665,Not reported,16.0
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,16.03449,ISO,1616.172
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,15.898413,ISO,1523.19
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,31.365912,ISO,2358.38
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,16.03449,ISO,1524.56
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,16.66952,ISO,1617.69
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,18.37049,ISO,1978.08
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,17.576704,ISO,1957.73
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,27.4877,ISO,2106.94
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,27.44234,ISO,2005.36
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,27.44234,ISO,2387.57
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,27.75985,ISO,2744.39
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,27.44234,ISO,2747.47
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,22.45282,ISO,1140.41
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,31.365912,ISO,3236.35
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,23.019813,ISO,1498.6
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,25.4012,ISO,1678.97
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,28.03201,ISO,2132.34
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,57.1526,ISO,2923.11
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,57.1526,ISO,3127.248
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,118.07009,ISO,2536.12
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,118.07009,ISO,2973.37
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,118.07009,Not reported,3335.99
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,32.6587,ISO,3128.864
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,20.32094,ISO,1968.62
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,20.50238,ISO,3143.478
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,20.91061,ISO,3024.602
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,23.700201,ISO,2597.12
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,15.807694,ISO,1504.51
+2014,"Lexmark International, Inc.",No,USA,Computers & Peripherals,15.807694,ISO,1490.36
+2014,LG Chem Ltd,No,South Korea,Chemicals,1000.0,GHGP,5846.0
+2015,LG Chem Ltd,No,South Korea,Not used for 2015 reporting,1000.0,GHGP,10245.0
+2013,LG Chem Ltd,No,South Korea,Chemicals,1000.0,GHGP,3197.1
+2014,LG Chem Ltd,No,South Korea,Chemicals,1000.0,GHGP,3113.0
+2015,LG Chem Ltd,No,South Korea,Not used for 2015 reporting,1000.0,GHGP,6309.0
+2016,LG Chem Ltd,No,South Korea,Chemicals,1000.0,GHGP,4286.0
+2015,LG Chem Ltd,No,South Korea,Not used for 2015 reporting,1000.0,GHGP,876.0
+2016,LG Chem Ltd,No,South Korea,Chemicals,1000.0,GHGP,396.0
+2016,LG Chem Ltd,No,South Korea,Chemicals,1000.0,GHGP,1088.0
+2016,LG Chem Ltd,No,South Korea,Chemicals,1000.0,GHGP,10607.0
+2013,LG Electronics,Yes,South Korea,Household Durables,0.1471,ISO,7.0
+2015,Logitech International SA,Yes,Switzerland,Not used for 2015 reporting,0.136,Not reported,4.32
+2013,Associated British Foods,Yes,United Kingdom,Food Products,1000.0,PAS2050,650.0
+2014,Associated British Foods,No,United Kingdom,Food Products,1000.0,PAS2050,650.0
+2016,Associated British Foods,No,United Kingdom,Beverages,1000.0,PAS2050,650.0
+2013,MAGOTTEAUX,No,Brazil,Metals & Mining,1500.0,GHGP,1750.0
+2016,MediaTek,Yes,Taiwan,Semiconductors & Semiconductor Equipment,0.1,GHGP,1.719
+2013,"Autodesk, Inc.",No,USA,Software,0.0907185,GHGP,1.28
+2014,"Autodesk, Inc.",Yes,USA,Software,0.0907185,GHGP,1.28
+2015,"Autodesk, Inc.",Yes,USA,Not used for 2015 reporting,0.0907185,GHGP,1.28
+2013,"Autodesk, Inc.",Yes,USA,Software,0.0085,GHGP,2.285
+2014,"Autodesk, Inc.",Yes,USA,Software,0.0085,GHGP,2.29
+2015,"Autodesk, Inc.",Yes,USA,Not used for 2015 reporting,0.0085,GHGP,2.29
+2015,"Autodesk, Inc.",Yes,USA,Not used for 2015 reporting,0.181437,GHGP,1.67
+2016,Miquel Y Costas,No,Spain,Paper & Forest Products,1.0,GHGP,3.0
+2013,MITIE Group,No,United Kingdom,Commercial Services & Supplies,2.32,ISO,320.0
+2013,MITIE Group,No,United Kingdom,Commercial Services & Supplies,4.2,ISO,20.0
+2017,"Mitsubishi Gas Chemical Company, Inc.",Yes,Japan,Chemicals,500.0,Not reported,200.0
+2017,"Mitsubishi Gas Chemical Company, Inc.",Yes,Japan,Chemicals,20.0,Not reported,71.0
+2017,"Mitsubishi Gas Chemical Company, Inc.",Yes,Japan,Chemicals,20.0,Not reported,4.0
+2017,"Mitsubishi Gas Chemical Company, Inc.",Yes,Japan,Chemicals,9.0,Not reported,8.0
+2017,"Mitsubishi Gas Chemical Company, Inc.",Yes,Japan,Chemicals,25.0,Not reported,42.0
+2017,"Mitsubishi Gas Chemical Company, Inc.",No,Japan,Chemicals,17736.0,Not reported,6469.0
+2017,"Mitsubishi Gas Chemical Company, Inc.",Yes,Japan,Chemicals,160.0,Not reported,139.0
+2017,"Mitsubishi Gas Chemical Company, Inc.",Yes,Japan,Chemicals,12000.0,Not reported,99075.0
+2017,"Mitsui Mining & Smelting Co., Ltd.",No,Japan,Aerospace & Defense,20.0,WBCSD,5.6724
+2013,Molson Coors Brewing Company,No,USA,Beverages,100.0,ISO,31.37
+2013,Molson Coors Brewing Company,No,USA,Beverages,12.029,ISO,3.02
+2014,Molson Coors Brewing Company,No,USA,Beverages,12.029,Not reported,3.07
+2013,Molson Coors Brewing Company,No,USA,Beverages,15.53,ISO,2.06
+2014,Molson Coors Brewing Company,No,USA,Beverages,15.53,ISO,2.0519
+2014,Molson Coors Brewing Company,Yes,USA,Beverages,13.67,ISO,3.732
+2015,NEC Corporation,Yes,Japan,Not used for 2015 reporting,19.28,ISO,1600.0
+2015,NEC Corporation,No,Japan,Not used for 2015 reporting,0.816,ISO,56.0
+2015,NEC Corporation,Yes,Japan,Not used for 2015 reporting,19.28,ISO,10273.0
+2013,Nestlé,Yes,Switzerland,Food Products,0.1,French PEF,0.07
+2014,Nestlé,No,Switzerland,Food Products,0.1,ISO,0.032
+2015,Nestlé,No,Switzerland,Not used for 2015 reporting,0.1,ISO,0.032
+2016,Nestlé,Yes,Switzerland,Beverages,0.12,ISO,0.052
+2013,Nestlé,Yes,Switzerland,Food Products,0.54167,ISO,0.1405
+2014,Nestlé,Yes,Switzerland,Food Products,0.54167,ISO,0.1405
+2015,Nestlé,Yes,Switzerland,Not used for 2015 reporting,0.54167,ISO,0.1405
+2016,Nestlé,Yes,Switzerland,Beverages,0.54167,Not reported,0.1405
+2013,Nestlé,Yes,Switzerland,Food Products,0.02,ISO,0.184
+2013,Nestlé,Yes,Switzerland,Food Products,0.02,ISO,0.143
+2013,Nestlé,Yes,Switzerland,Food Products,0.02,ISO,0.125
+2013,Nokia Group,Yes,Finland,Communications Equipment,0.218,ISO,12.0
+2014,Nokia Group,Yes,Finland,Communications Equipment,0.218,ISO,12.0
+2013,Nokia Group,Yes,Finland,Communications Equipment,0.142,ISO,16.0
+2013,Nokia Group,Yes,Finland,Communications Equipment,0.085,ISO,8.0
+2017,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",1.06,GHGP,7.5
+2017,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",1.34,GHGP,86.2
+2014,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",0.5448,GHGP,28.2
+2017,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",0.45,GHGP,9.0
+2017,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",0.42,GHGP,1.617
+2017,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",0.25,GHGP,0.069
+2014,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",0.112,GHGP,8.96
+2014,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",0.0028,Not reported,0.145
+2017,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",0.034,GHGP,3.3
+2017,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",0.034,GHGP,1.1
+2017,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",0.034,GHGP,0.6
+2017,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",0.25,GHGP,28.2
+2017,OMRON Corporation,No,Japan,"Electronic Equipment, Instruments & Components",1.06,GHGP,7.5
+2013,"Osaka Gas Co., Ltd.",Yes,Japan,Gas Utilities,1.062,Not reported,60.58
+2015,"Osaka Gas Co., Ltd.",Yes,Japan,Not used for 2015 reporting,1.062,Not reported,60.58
+2016,"Osaka Gas Co., Ltd.",Yes,Japan,Gas Utilities,1.062,GHGP,60.64
+2013,"PepsiCo, Inc.",No,USA,Beverages,0.0325,GHGP,0.08
+2014,"PepsiCo, Inc.",No,USA,Beverages,0.0325,GHGP,0.08
+2015,"PepsiCo, Inc.",No,USA,Not used for 2015 reporting,0.0325,GHGP,0.08
+2013,"PepsiCo, Inc.",No,USA,Beverages,0.05,GHGP,0.12
+2014,"PepsiCo, Inc.",No,USA,Beverages,0.05,GHGP,0.12
+2015,"PepsiCo, Inc.",No,USA,Not used for 2015 reporting,0.05,GHGP,0.12
+2013,"PepsiCo, Inc.",No,USA,Beverages,0.04,GHGP,0.07
+2014,"PepsiCo, Inc.",No,USA,Beverages,0.04,GHGP,0.07
+2015,"PepsiCo, Inc.",No,USA,Not used for 2015 reporting,0.04,GHGP,0.07
+2013,"PepsiCo, Inc.",No,USA,Beverages,0.324,GHGP,0.65
+2014,"PepsiCo, Inc.",No,USA,Beverages,0.324,GHGP,0.65
+2015,"PepsiCo, Inc.",No,USA,Not used for 2015 reporting,0.324,GHGP,0.65
+2013,Philips & Lite-On Digital Solutions Corp.,No,Taiwan,Computers & Peripherals,0.0907185,Not reported,25.5
+2013,Acbel Polytech Inc,Yes,Taiwan,Computers & Peripherals,1.8,PAS2050,244.09
+2013,Quanta Storage Inc.,No,China,Computers & Peripherals,0.0907185,Not reported,1.62
+2014,Quanta Storage Inc.,No,China,Computers & Peripherals,0.0907185,Not reported,12.0
+2014,Qisda,Yes,Taiwan,Computers & Peripherals,6.3,PAS2050,33.31
+2014,Qisda,Yes,Taiwan,Computers & Peripherals,2.8,PAS2050,88.96
+2013,Qisda,Yes,Taiwan,Computers & Peripherals,2.4,PAS2050,70.02
+2014,Qisda,Yes,Taiwan,Computers & Peripherals,0.31,PAS2050,19.38
+2015,Qisda,Yes,Taiwan,Not used for 2015 reporting,7.4,PAS2050,66.19
+2016,Qisda,Yes,Taiwan,"Electronic Equipment, Instruments & Components",5.8,PAS2050,74.83
+2015,Qisda,Yes,Taiwan,Not used for 2015 reporting,3.4,PAS2050,83.18
+2016,Qisda,Yes,Taiwan,"Electronic Equipment, Instruments & Components",4.4,PAS2050,99.68
+2015,Qisda,Yes,Taiwan,Not used for 2015 reporting,0.35,PAS2050,53.36
+2016,Qisda,Yes,Taiwan,"Electronic Equipment, Instruments & Components",0.35,PAS2050,16.21
+2015,Qisda,Yes,Taiwan,Not used for 2015 reporting,8.2,PAS2050,69.12
+2016,Qisda,Yes,Taiwan,"Electronic Equipment, Instruments & Components",5.8,PAS2050,24.04
+2015,Qisda,Yes,Taiwan,Not used for 2015 reporting,14.2,PAS2050,146.41
+2016,Qisda,Yes,Taiwan,"Electronic Equipment, Instruments & Components",7.0,PAS2050,66.16
+2013,Qisda,Yes,Taiwan,Computers & Peripherals,7.5,PAS2050,182.927
+2013,Qisda,Yes,Taiwan,Computers & Peripherals,0.11,PAS2050,18.756
+2013,Qisda,Yes,Taiwan,Computers & Peripherals,0.8,PAS2050,25.517
+2013,Qisda,Yes,Taiwan,Computers & Peripherals,1.4,PAS2050,20.886
+2014,Qisda,Yes,Taiwan,Computers & Peripherals,11.0,PAS2050,105.56
+2014,Qisda,Yes,Taiwan,Computers & Peripherals,23.0,PAS2050,174.46
+2014,Qisda,Yes,Taiwan,Computers & Peripherals,0.7,PAS2050,25.72
+2014,Qisda,Yes,Taiwan,Computers & Peripherals,0.162,PAS2050,6.13
+2013,BlackBerry Limited,Yes,Canada,Wireless Telecommunication Services,0.13,ISO,52.2
+2014,BlackBerry Limited,Yes,Canada,Communications Equipment,0.1375,ISO,57.1
+2015,BlackBerry Limited,Yes,Canada,Not used for 2015 reporting,0.205,ISO,65.1
+2016,BlackBerry Limited,Yes,Canada,"Electronic Equipment, Instruments & Components",0.205,ISO,65.1
+2016,BlackBerry Limited,Yes,Canada,"Electronic Equipment, Instruments & Components",0.178,ISO,62.8
+2016,BlackBerry Limited,Yes,Canada,"Electronic Equipment, Instruments & Components",0.192,ISO,79.9
+2017,"Ricoh Co., Ltd.",Yes,Japan,"Electronic Equipment, Instruments & Components",33.0,ISO,1640.0
+2013,"Ricoh Co., Ltd.",No,Japan,Office Electronics,214.0,ISO,2400.0
+2013,"Ricoh Co., Ltd.",No,Japan,Office Electronics,130.0,Not reported,2100.0
+2013,"Ricoh Co., Ltd.",No,Japan,Office Electronics,73.0,Not reported,1297.0
+2013,"Ricoh Co., Ltd.",No,Japan,Office Electronics,97.0,Not reported,3210.0
+2013,"Ricoh Co., Ltd.",No,Japan,Office Electronics,550.0,Not reported,7368.0
+2014,"Ricoh Co., Ltd.",No,Japan,Office Electronics,99.9,ISO,1940.0
+2014,"Ricoh Co., Ltd.",No,Japan,Office Electronics,241.0,Not reported,6140.0
+2015,"Ricoh Co., Ltd.",No,Japan,Not used for 2015 reporting,74.0,ISO,1330.0
+2015,"Ricoh Co., Ltd.",No,Japan,Not used for 2015 reporting,600.0,Not reported,8080.0
+2013,Sappi,No,South Africa,Paper & Forest Products,1000.0,Not reported,968.0
+2014,Sappi,Yes,South Africa,Paper & Forest Products,1000.0,Not reported,1031.6
+2013,Sappi,No,South Africa,Paper & Forest Products,1000.0,Not reported,949.0
+2014,Sappi,Yes,South Africa,Paper & Forest Products,1000.0,Not reported,1042.8
+2013,Sappi,No,South Africa,Paper & Forest Products,1000.0,Not reported,1033.0
+2014,Sappi,Yes,South Africa,Paper & Forest Products,1000.0,Not reported,1060.9
+2013,Sappi,No,South Africa,Paper & Forest Products,1000.0,Not reported,973.0
+2014,Sappi,Yes,South Africa,Paper & Forest Products,1000.0,Not reported,1082.6
+2013,Schneider Electric,Yes,France,Electrical Equipment,0.21,ISO,19.1
+2014,Schneider Electric,Yes,France,Electrical Equipment,0.21,ISO,19.1
+2015,Schneider Electric,Yes,France,Not used for 2015 reporting,0.21,ISO,19.1
+2016,Schneider Electric,Yes,France,Electrical Equipment,0.21,ISO,61.23
+2013,Smurfit Kappa Group PLC,Yes,Ireland,Containers & Packaging,1000.0,FEFCO,746.0
+2014,Smurfit Kappa Group PLC,Yes,Ireland,Containers & Packaging,1000.0,PAS2050,746.0
+2015,Smurfit Kappa Group PLC,Yes,Ireland,Not used for 2015 reporting,1000.0,PAS2050,746.0
+2013,Smurfit Kappa Group PLC,Yes,Ireland,Containers & Packaging,1000.0,PAS2050,964.0
+2014,Smurfit Kappa Group PLC,Yes,Ireland,Containers & Packaging,1000.0,PAS2050,964.0
+2015,Smurfit Kappa Group PLC,Yes,Ireland,Not used for 2015 reporting,1000.0,PAS2050,964.0
+2014,Solvay S.A.,Yes,Belgium,Chemicals,1.0,GHGP,1.32
+2014,Solvay S.A.,Yes,Belgium,Chemicals,1.0,GHGP,1.1
+2015,Solvay S.A.,Yes,Belgium,Not used for 2015 reporting,1.0,GHGP,1.01
+2016,Solvay S.A.,No,Belgium,Chemicals,1.0,ISO,1.01
+2015,Solvay S.A.,Yes,Belgium,Not used for 2015 reporting,1.0,GHGP,1.29
+2016,Solvay S.A.,No,Belgium,Chemicals,1.0,ISO,1.29
+2015,Solvay S.A.,Yes,Belgium,Not used for 2015 reporting,1.0,GHGP,1.19
+2016,Solvay S.A.,No,Belgium,Chemicals,1.0,ISO,1.19
+2014,"Staples, Inc.",Yes,USA,Specialty Retail,0.8172,ISO,2.526
+2015,"Staples, Inc.",Yes,USA,Not used for 2015 reporting,0.8172,ISO,2.526
+2014,"Staples, Inc.",Yes,USA,Specialty Retail,0.8172,ISO,8.38
+2015,"Staples, Inc.",Yes,USA,Not used for 2015 reporting,0.8172,ISO,8.38
+2015,"Stanley Black & Decker, Inc.",No,USA,Not used for 2015 reporting,1.82,Not reported,55.67
+2016,"Stanley Black & Decker, Inc.",No,USA,Electrical Equipment,1.82,Not reported,55.67
+2015,"Stanley Black & Decker, Inc.",No,USA,Not used for 2015 reporting,2.7,Not reported,88.13
+2016,"Stanley Black & Decker, Inc.",No,USA,Electrical Equipment,2.7,Not reported,88.13
+2016,"Stanley Black & Decker, Inc.",Yes,USA,Electrical Equipment,0.5,Traci 2.1,2.15
+2016,Steelcase,No,USA,Commercial Services & Supplies,13.05,ISO,23.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,51.7,ISO,150.0
+2013,Steelcase,No,USA,Commercial Services & Supplies,19.773,ILCD Handbook,120.0
+2014,Steelcase,No,USA,Commercial Services & Supplies,19.773,ILCD Handbook,120.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,6.165,ISO,29.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,32.916,ISO,94.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,154.804,ISO,380.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,35.331,ISO,71.8
+2016,Steelcase,No,USA,Commercial Services & Supplies,35.38,ISO,170.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,35.38,ISO,180.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,35.298,ISO,98.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,37.0,ISO,51.5
+2013,Steelcase,No,USA,Commercial Services & Supplies,44.706,ILCD Handbook,160.0
+2014,Steelcase,No,USA,Commercial Services & Supplies,44.706,ILCD Handbook,160.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,26.183,ISO,87.8
+2016,Steelcase,No,USA,Commercial Services & Supplies,25.0,ISO,120.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,38.337,ISO,39.6
+2016,Steelcase,No,USA,Commercial Services & Supplies,31.0,ISO,110.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,40.9,ISO,95.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,14.963,ISO,60.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,23.623,ISO,90.9
+2016,Steelcase,No,USA,Commercial Services & Supplies,5.17,ISO,56.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,17.7,ISO,101.0
+2013,Steelcase,No,USA,Commercial Services & Supplies,52.221,ILCD Handbook,110.8
+2014,Steelcase,No,USA,Commercial Services & Supplies,52.221,ILCD Handbook,110.8
+2016,Steelcase,No,USA,Commercial Services & Supplies,67.323,ISO,52.6
+2016,Steelcase,No,USA,Commercial Services & Supplies,47.334,ISO,49.7
+2016,Steelcase,No,USA,Commercial Services & Supplies,69.78,ISO,103.8
+2016,Steelcase,No,USA,Commercial Services & Supplies,5.057,ISO,18.8
+2013,Steelcase,No,USA,Commercial Services & Supplies,17.252,ILCD Handbook,85.5
+2014,Steelcase,No,USA,Commercial Services & Supplies,17.252,ILCD Handbook,85.5
+2016,Steelcase,No,USA,Commercial Services & Supplies,21.77,ISO,100.2
+2016,Steelcase,No,USA,Commercial Services & Supplies,44.706,ISO,160.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,13.01,ISO,111.2
+2016,Steelcase,No,USA,Commercial Services & Supplies,34.8,ISO,110.0
+2016,Steelcase,No,USA,Commercial Services & Supplies,42.1,ISO,100.0
+2015,Syngenta AG,No,Switzerland,Not used for 2015 reporting,1.0,PAS2050,2.8
+2015,Syngenta AG,No,Switzerland,Not used for 2015 reporting,1.0,PAS2050,3.72
+2015,Syngenta AG,No,Switzerland,Not used for 2015 reporting,1.0,PAS2050,4.82
+2015,Syngenta AG,No,Switzerland,Not used for 2015 reporting,1.0,PAS2050,1.02
+2013,Tata Chemicals,No,India,Chemicals,1000.0,GHGP,1282.0
+2014,Tata Chemicals,No,India,Chemicals,1000.0,GHGP,1057.0
+2015,Tata Chemicals,No,India,Not used for 2015 reporting,1000.0,ISO,1006.0
+2017,Tata Chemicals,No,India,Chemicals,1000.0,ISO,870.0
+2013,Tata Chemicals,No,India,Chemicals,1000.0,GHGP,701.0
+2014,Tata Chemicals,No,India,Chemicals,1000.0,Not reported,840.0
+2015,Tata Chemicals,No,India,Not used for 2015 reporting,1000.0,Not reported,764.0
+2015,Tata Chemicals,No,India,Not used for 2015 reporting,1000.0,Not reported,504.0
+2015,Tata Chemicals,No,India,Not used for 2015 reporting,1000.0,Not reported,701.0
+2015,Tata Chemicals,No,India,Not used for 2015 reporting,1000.0,Not reported,1083.0
+2014,Tata Steel,Yes,India,Metals & Mining,1000.0,Not reported,2425.0
+2015,Tata Steel,Yes,India,Not used for 2015 reporting,1000.0,Not reported,2615.0
+2014,Tata Steel,Yes,India,Metals & Mining,1000.0,Not reported,2549.0
+2015,Tata Steel,Yes,India,Not used for 2015 reporting,1000.0,Not reported,2746.0
+2014,Tata Steel,Yes,India,Metals & Mining,1000.0,Not reported,2611.0
+2015,Tata Steel,Yes,India,Not used for 2015 reporting,1000.0,Not reported,2820.0
+2013,TETRA PAK,Yes,Sweden,Containers & Packaging,0.009,ISO,0.017
+2014,TETRA PAK,Yes,Sweden,Containers & Packaging,0.009,ISO,0.017
+2015,TETRA PAK,Yes,Sweden,Not used for 2015 reporting,0.009,ISO,0.017
+2016,TETRA PAK,Yes,Sweden,Containers & Packaging,0.009,ISO,0.016
+2013,TETRA PAK,Yes,Sweden,Containers & Packaging,0.01,ISO,0.018
+2014,TETRA PAK,Yes,Sweden,Containers & Packaging,0.01,ISO,0.018
+2015,TETRA PAK,Yes,Sweden,Not used for 2015 reporting,0.01,ISO,0.018
+2016,TETRA PAK,Yes,Sweden,Containers & Packaging,0.01,ISO,0.018
+2013,TETRA PAK,Yes,Sweden,Containers & Packaging,0.01,ISO,0.018
+2014,TETRA PAK,Yes,Sweden,Containers & Packaging,0.01,ISO,0.018
+2015,TETRA PAK,Yes,Sweden,Not used for 2015 reporting,0.01,ISO,0.018
+2016,TETRA PAK,Yes,Sweden,Containers & Packaging,0.01,ISO,0.017
+2013,TETRA PAK,Yes,Sweden,Containers & Packaging,0.028,ISO,0.046
+2014,TETRA PAK,Yes,Sweden,Containers & Packaging,0.028,ISO,0.046
+2015,TETRA PAK,Yes,Sweden,Not used for 2015 reporting,0.028,ISO,0.046
+2016,TETRA PAK,Yes,Sweden,Containers & Packaging,0.028,ISO,0.042
+2013,Bloomberg,Yes,USA,Media,14.6,GHGP,9438.0
+2014,Bloomberg,Yes,USA,Media,14.6,GHGP,9438.0
+2015,Bloomberg,Yes,USA,Not used for 2015 reporting,14.6,GHGP,1766.0
+2016,Bloomberg,Yes,USA,Media,14.6,GHGP,1766.0
+2013,Bloomberg,Yes,USA,Media,1.08,GHGP,93.68
+2014,Bloomberg,Yes,USA,Media,1.08,GHGP,93.68
+2015,Bloomberg,Yes,USA,Not used for 2015 reporting,1.08,GHGP,40.0
+2016,Bloomberg,Yes,USA,Media,1.08,GHGP,40.0
+2013,Bloomberg,Yes,USA,Media,0.029,GHGP,2.18
+2014,Bloomberg,Yes,USA,Media,0.029,GHGP,2.18
+2015,Bloomberg,Yes,USA,Not used for 2015 reporting,0.029,GHGP,2.0
+2016,Bloomberg,Yes,USA,Media,0.029,GHGP,2.0
+2013,Technicolor SA,Yes,France,Media,0.599,ISO,111.0
+2014,Technicolor SA,Yes,France,Media,0.599,ISO,111.0
+2015,Technicolor SA,Yes,France,Not used for 2015 reporting,0.599,ISO,111.0
+2017,"Toppan Printing Co., Ltd.",Yes,Japan,Commercial Services & Supplies,13.44,Japan CFP,377.6
+2017,"Toppan Printing Co., Ltd.",Yes,Japan,Commercial Services & Supplies,13.44,Japan CFP,363.0
+2016,Trelleborg AB,Yes,Sweden,Electrical Equipment,370.69,ISO,1408.62
+2013,Radius Systems,Yes,United Kingdom,Building Products,1.0,Not reported,2.52
+2013,Volkswagen AG,Yes,Germany,Automobiles,993.0,ISO,21725.0
+2014,Volkswagen AG,No,Germany,Automobiles,993.0,Not reported,21725.0
+2015,Volkswagen AG,No,Germany,Not used for 2015 reporting,993.0,ISO,21725.0
+2016,Volkswagen AG,No,Germany,Auto Components,993.0,ISO,21725.0
+2013,Volkswagen AG,Yes,Germany,Automobiles,1358.056,ISO,22218.0
+2014,Volkswagen AG,No,Germany,Automobiles,1394.343,ISO,22218.0
+2015,Volkswagen AG,No,Germany,Not used for 2015 reporting,1394.343,ISO,22218.0
+2016,Volkswagen AG,No,Germany,Auto Components,1358.056,ISO,22218.0
+2013,Volkswagen AG,Yes,Germany,Automobiles,1539.039,ISO,28011.0
+2014,Volkswagen AG,No,Germany,Automobiles,1539.039,ISO,28011.0
+2015,Volkswagen AG,No,Germany,Not used for 2015 reporting,1539.039,ISO,28011.0
+2016,Volkswagen AG,No,Germany,Auto Components,1539.039,ISO,28011.0
+2013,Volkswagen AG,Yes,Germany,Automobiles,1460.114,ISO,30647.0
+2014,Volkswagen AG,No,Germany,Automobiles,1539.039,Not reported,34694.0
+2015,Volkswagen AG,No,Germany,Not used for 2015 reporting,1539.039,Not reported,33683.0
+2014,Volkswagen AG,No,Germany,Automobiles,929.8644,ISO,21488.0
+2015,Volkswagen AG,No,Germany,Not used for 2015 reporting,929.8644,ISO,21488.0
+2016,Volkswagen AG,No,Germany,Auto Components,929.8644,ISO,21488.0
+2014,Volkswagen AG,No,Germany,Automobiles,1895.109,ISO,37094.0
+2015,Volkswagen AG,No,Germany,Not used for 2015 reporting,1895.109,ISO,37094.0
+2016,Volkswagen AG,No,Germany,Auto Components,1895.109,ISO,37094.0
+2014,Volkswagen AG,No,Germany,Automobiles,1128.0,ISO,28608.0
+2015,Volkswagen AG,No,Germany,Not used for 2015 reporting,1128.0,ISO,28608.0
+2016,Volkswagen AG,No,Germany,Auto Components,1128.0,ISO,28608.0
+2016,Volkswagen AG,No,Germany,Auto Components,1185.0,ISO,7550.0
+2013,Waters Corporation,Yes,USA,Life Sciences Tools & Services,59.0,GHGP,15196.6
+2014,Waters Corporation,Yes,USA,Life Sciences Tools & Services,59.0,GHGP,40215.0
+2013,Waters Corporation,Yes,USA,Life Sciences Tools & Services,25.9,GHGP,17074.4
+2013,Weg S/A,Yes,Brazil,Machinery,90.0,ISO,53057.5
+2014,Weg S/A,Yes,Brazil,Machinery,90.0,GHGP,87589.36467
+2015,Weg S/A,Yes,Brazil,Not used for 2015 reporting,90.0,GHGP,20007.62
+2013,Xerox Corporation,Yes,USA,Office Electronics,25.5,ISO,584.0
+2014,Xerox Corporation,Yes,USA,Office Electronics,25.5,ISO,584.0
+2015,Xerox Corporation,Yes,USA,Not used for 2015 reporting,25.5,ISO,584.0
+2016,Xerox Corporation,Yes,USA,Software,25.5,ISO,584.0
+2013,Xerox Corporation,Yes,USA,Office Electronics,46.308,ISO,2445.0
+2014,Xerox Corporation,Yes,USA,Office Electronics,46.308,ISO,2445.0
+2015,Xerox Corporation,Yes,USA,Not used for 2015 reporting,46.308,ISO,2445.0
+2016,Xerox Corporation,Yes,USA,Software,46.308,ISO,2445.0
+2013,Xerox Corporation,Yes,USA,Office Electronics,368.8,ISO,7090.0
+2014,Xerox Corporation,Yes,USA,Office Electronics,368.8,ISO,7090.0
+2015,Xerox Corporation,Yes,USA,Not used for 2015 reporting,368.8,ISO,7090.0
+2016,Xerox Corporation,Yes,USA,Software,368.8,ISO,7090.0
+2013,Xerox Corporation,No,USA,Office Electronics,34.0194,ISO,2110.0
+2014,Xerox Corporation,Yes,USA,Office Electronics,34.0194,ISO,2011.0
+2015,Xerox Corporation,Yes,USA,Not used for 2015 reporting,34.0194,ISO,2011.0
+2016,Xerox Corporation,Yes,USA,Software,34.0194,ISO,2011.0
+2014,Xerox Corporation,Yes,USA,Office Electronics,44.0,ISO,2000.0
+2015,Xerox Corporation,Yes,USA,Not used for 2015 reporting,44.0,ISO,2000.0
+2016,Xerox Corporation,Yes,USA,Software,44.0,ISO,2000.0
+2015,Xerox Corporation,Yes,USA,Not used for 2015 reporting,158.5,ISO,4216.0
+2016,Xerox Corporation,Yes,USA,Software,158.5,ISO,4216.0
+2015,Xerox Corporation,Yes,USA,Not used for 2015 reporting,137.2,ISO,1300.0
+2016,Xerox Corporation,Yes,USA,Software,137.2,ISO,1300.0
+2015,Xerox Corporation,Yes,USA,Not used for 2015 reporting,137.2,ISO,1500.0
+2016,Xerox Corporation,Yes,USA,Software,137.2,ISO,1500.0
+2015,Xerox Corporation,Yes,USA,Not used for 2015 reporting,137.2,ISO,1700.0
+2016,Xerox Corporation,Yes,USA,Software,137.2,ISO,1700.0
+2015,Azbil Corporation,Yes,Japan,Not used for 2015 reporting,3.6,ISO,42.2
+2015,Azbil Corporation,Yes,Japan,Not used for 2015 reporting,0.11,ISO,13.8
+2015,Azbil Corporation,Yes,Japan,Not used for 2015 reporting,0.11,ISO,2.5
+2015,Azbil Corporation,Yes,Japan,Not used for 2015 reporting,0.24,ISO,8.3
+2014,"Yokohama Rubber Company, Limited",Yes,Japan,Auto Components,8.7,Not reported,256.5
+2015,"Yokohama Rubber Company, Limited",Yes,Japan,Not used for 2015 reporting,8.7,Not reported,287.68
+2014,"Yokohama Rubber Company, Limited",No,Japan,Auto Components,160.0,Not reported,1881.0
+2015,"Yokohama Rubber Company, Limited",No,Japan,Not used for 2015 reporting,160.0,Not reported,1734.0
+2015,Brambles,No,Australia,Not used for 2015 reporting,31.8,ISO,40.79
+2015,Brambles,No,Australia,Not used for 2015 reporting,31.8,ISO,35.16
+2015,Brambles,No,Australia,Not used for 2015 reporting,2.5,ISO,20.04
+2015,Brambles,No,Australia,Not used for 2015 reporting,15.9,ISO,18.76
+2015,Brambles,No,Australia,Not used for 2015 reporting,2.4062,ISO,89.567
+2015,Brambles,No,Australia,Not used for 2015 reporting,2.4062,ISO,34.15
+2013,Braskem S/A,Yes,Brazil,Chemicals,1.0,PAS2050,1.32
+2014,Braskem S/A,No,Brazil,Chemicals,1.0,PAS2050,1.32
+2015,Braskem S/A,No,Brazil,Not used for 2015 reporting,1.0,PAS2050,1.32
+2016,Braskem S/A,No,Brazil,Chemicals,1000.0,PAS2050,1320.0
+2013,Braskem S/A,Yes,Brazil,Chemicals,1.0,PAS2050,1.33
+2014,Braskem S/A,No,Brazil,Chemicals,1.0,PAS2050,1.33
+2015,Braskem S/A,No,Brazil,Not used for 2015 reporting,1.0,PAS2050,1.33
+2016,Braskem S/A,No,Brazil,Chemicals,1000.0,PAS2050,1330.0
+2013,Braskem S/A,Yes,Brazil,Chemicals,1.0,PAS2050,1.77
+2014,Braskem S/A,No,Brazil,Chemicals,1.0,PAS2050,1.77
+2015,Braskem S/A,No,Brazil,Not used for 2015 reporting,1.0,Not reported,1.77
+2016,Braskem S/A,No,Brazil,Chemicals,1000.0,PAS2050,1770.0
+2013,Wistron Corp,No,Taiwan,Computers & Peripherals,2.35868,PAS2050,8.8
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,1600.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,10202.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,1330.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,10202.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,10202.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,10202.0
+2016,Quanta Computer,No,Taiwan,"Electronic Equipment, Instruments & Components",0.25,GHGP,5.3
+2016,Quanta Computer,No,Taiwan,"Electronic Equipment, Instruments & Components",8.05,GHGP,5.4
+2016,Quanta Computer,No,Taiwan,"Electronic Equipment, Instruments & Components",8.05,GHGP,5.3
+2016,Quanta Computer,No,Taiwan,"Electronic Equipment, Instruments & Components",2.95,GHGP,5.4
+2016,Quanta Computer,No,Taiwan,"Electronic Equipment, Instruments & Components",19.97,GHGP,2.4
+2016,Quanta Computer,No,Taiwan,"Electronic Equipment, Instruments & Components",0.35,GHGP,5.3
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,3248.0
+2016,Quanta Computer,No,Taiwan,"Electronic Equipment, Instruments & Components",0.35,GHGP,3.6
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,1600.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,1600.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,1600.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,1600.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,1600.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,1600.0
+2015,Quanta Computer,No,Taiwan,Not used for 2015 reporting,1000.0,GHGP,1600.0
+2016,Bridgestone Corporation,Yes,Japan,Auto Components,9.07185,JRM Assoc.,118.0
+2014,Coway Co Ltd,Yes,South Korea,Household Durables,7.2,Korea CL Guide,126.0
+2013,Empresas CMPC,No,Chile,Paper & Forest Products,1000.0,GHGP,549.2
+2014,Empresas CMPC,Yes,Chile,Paper & Forest Products,1000.0,GHGP,554.94
+2015,Empresas CMPC,Yes,Chile,Not used for 2015 reporting,1000.0,GHGP,451.46
+2015,Metsä Board,Yes,Finland,Not used for 2015 reporting,1000.0,Not reported,918.0
+2015,Metsä Board,Yes,Finland,Not used for 2015 reporting,1000.0,Not reported,918.0
+2013,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Not reported,597.0
+2015,Metsä Board,Yes,Finland,Not used for 2015 reporting,1000.0,Not reported,782.0
+2015,Metsä Board,Yes,Finland,Not used for 2015 reporting,1000.0,Not reported,918.0
+2015,Metsä Board,Yes,Finland,Not used for 2015 reporting,1000.0,Not reported,918.0
+2015,Metsä Board,Yes,Finland,Not used for 2015 reporting,1000.0,Not reported,900.0
+2016,Metsä Board,No,Finland,Paper & Forest Products,1000.0,Paper Profile,807.0
+2016,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Paper Profile,767.0
+2016,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Paper Profile,369.0
+2016,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Paper Profile,804.0
+2016,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Paper Profile,534.0
+2016,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Paper Profile,767.0
+2016,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Paper Profile,766.0
+2013,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Not reported,482.0
+2015,Metsä Board,Yes,Finland,Not used for 2015 reporting,1000.0,Not reported,804.0
+2016,Metsä Board,No,Finland,Paper & Forest Products,1000.0,Paper Profile,767.0
+2016,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Paper Profile,767.0
+2016,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Paper Profile,811.0
+2016,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Paper Profile,534.0
+2016,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Paper Profile,776.0
+2013,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Not reported,478.0
+2015,Metsä Board,Yes,Finland,Not used for 2015 reporting,1000.0,Not reported,811.0
+2013,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Not reported,359.0
+2015,Metsä Board,Yes,Finland,Not used for 2015 reporting,1000.0,Not reported,534.0
+2013,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Not reported,359.0
+2015,Metsä Board,Yes,Finland,Not used for 2015 reporting,1000.0,Not reported,534.0
+2013,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Not reported,398.0
+2013,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Not reported,781.0
+2013,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Not reported,792.0
+2013,Metsä Board,Yes,Finland,Paper & Forest Products,1000.0,Not reported,781.0
+2014,Owens-Illinois,No,USA,Containers & Packaging,0.416,ISO,0.153
+2014,Owens-Illinois,No,USA,Containers & Packaging,0.416,ISO,0.11
+2014,Owens-Illinois,No,USA,Containers & Packaging,0.416,ISO,0.117
+2014,Owens-Illinois,No,USA,Containers & Packaging,0.416,ISO,0.171
+2014,BillerudKorsnäs,Yes,Sweden,Containers & Packaging,1000.0,ISO,407.0
+2015,BillerudKorsnäs,Yes,Sweden,Not used for 2015 reporting,1000.0,ISO,407.0
+2013,Chunghwa Picture Tubes Ltd,Yes,Taiwan,"Electronic Equipment, Instruments & Components",0.28,ISO,12.0
+2014,Coca-Cola HBC AG,Yes,Switzerland,Beverages,1.093,GHGP,0.1673
+2015,Coca-Cola HBC AG,Yes,Switzerland,Not used for 2015 reporting,1.093,GHGP,0.158
+2016,Coca-Cola HBC AG,Yes,Switzerland,Beverages,1.093,GHGP,0.147
+2015,"Gamesa Corporación Tecnológica, S.A.",No,Spain,Not used for 2015 reporting,361000.0,ISO,1251625.0
+2015,"Gamesa Corporación Tecnológica, S.A.",No,Spain,Not used for 2015 reporting,400000.0,ISO,1532608.0
+2015,"Gamesa Corporación Tecnológica, S.A.",No,Spain,Not used for 2015 reporting,600000.0,ISO,3718044.0
+2015,"Gamesa Corporación Tecnológica, S.A.",No,Spain,Not used for 2015 reporting,600000.0,Not reported,3276187.0
+2013,Hewlett-Packard,Yes,USA,Computers & Peripherals,7.1,MIT PAIA,300.0
+2013,Hewlett-Packard,Yes,USA,Computers & Peripherals,8.3,MIT PAIA,380.0
+2013,Hewlett-Packard,No,USA,Computers & Peripherals,52.5,ISO,16100.0
+2013,Hewlett-Packard,Yes,USA,Computers & Peripherals,10.1,MIT PAIA,460.0
+2013,Hewlett-Packard,No,USA,Computers & Peripherals,7.2,ISO,231.4
+2013,Hewlett-Packard,Yes,USA,Computers & Peripherals,10.61,ISO,262.1
+2013,Hewlett-Packard,Yes,USA,Computers & Peripherals,3.1,MIT PAIA,420.0
+2013,Hewlett-Packard,Yes,USA,Computers & Peripherals,7.6,MIT PAIA,500.0
+2013,Hewlett-Packard,Yes,USA,Computers & Peripherals,11.2,MIT PAIA,580.0
+2013,Hewlett-Packard,Yes,USA,Computers & Peripherals,1.61,MIT PAIA,230.0
+2013,Hewlett-Packard,Yes,USA,Computers & Peripherals,2.25,MIT PAIA,290.0
+2013,Hewlett-Packard,Yes,USA,Computers & Peripherals,3.0,MIT PAIA,370.0
+2016,Herman Miller,No,USA,Household Durables,70.2,TRACI 2.1,54.0
+2016,Herman Miller,No,USA,Household Durables,88.7,TRACI 2.1,77.0
+2015,Herman Miller,No,USA,Not used for 2015 reporting,23.59,TRACI 2.1,98.0
+2016,Herman Miller,No,USA,Household Durables,23.59,TRACI 2.1,98.0
+2016,Herman Miller,No,USA,Household Durables,107.0,TRACI 2.1,43.0
+2016,Herman Miller,No,USA,Household Durables,19.323,TRACI 2.1,87.0
+2015,Herman Miller,No,USA,Not used for 2015 reporting,9.53,TRACI 2.1,26.0
+2016,Herman Miller,No,USA,Household Durables,9.53,TRACI 2.1,26.0
+2015,Herman Miller,No,USA,Not used for 2015 reporting,24.95,TRACI 2.1,91.0
+2016,Herman Miller,No,USA,Household Durables,24.95,TRACI 2.1,98.0
+2015,Herman Miller,No,USA,Not used for 2015 reporting,19.05,TRACI 2.1,105.0
+2016,Herman Miller,No,USA,Household Durables,19.05,TRACI 2.1,105.0
+2015,Herman Miller,No,USA,Not used for 2015 reporting,17.24,TRACI 2.1,82.0
+2016,Herman Miller,No,USA,Household Durables,17.24,TRACI 2.1,82.0
+2015,Herman Miller,No,USA,Not used for 2015 reporting,7.71,TRACI 2.1,48.0
+2016,Herman Miller,No,USA,Household Durables,7.71,TRACI 2.1,48.0
+2015,Herman Miller,No,USA,Not used for 2015 reporting,24.95,TRACI 2.1,72.0
+2016,Herman Miller,No,USA,Household Durables,24.95,TRACI 2.1,72.0
+2016,Herman Miller,No,USA,Household Durables,34.93,TRACI 2.1,102.0
+2016,Herman Miller,No,USA,Household Durables,99.5,TRACI 2.1,76.0
+2014,BT Group,Yes,United Kingdom,Diversified Telecommunication Services,1.4,GHGP,4.7
+2015,BT Group,Yes,United Kingdom,Not used for 2015 reporting,1.4,GHGP,4.7
+2014,BT Group,Yes,United Kingdom,Diversified Telecommunication Services,1.1,Not reported,57.0
+2015,BT Group,Yes,United Kingdom,Not used for 2015 reporting,1.1,Not reported,57.0
+2014,BT Group,Yes,United Kingdom,Diversified Telecommunication Services,1.2,Not reported,33.0
+2015,BT Group,Yes,United Kingdom,Not used for 2015 reporting,1.2,Not reported,33.0
+2014,BT Group,Yes,United Kingdom,Diversified Telecommunication Services,1.7,Not reported,88.0
+2015,BT Group,Yes,United Kingdom,Not used for 2015 reporting,1.7,Not reported,88.0
+2014,Cabot Corporation,No,USA,Chemicals,1000.0,GHGP,2280.0
+2014,Canon Inc.,Yes,Japan,Office Electronics,71.0,M. Env. Japan,39.0
+2014,Canon Inc.,Yes,Japan,Office Electronics,30.98,M. Env. Japan,57.0
+2014,Canon Inc.,Yes,Japan,Office Electronics,0.553,M. Env. Japan,13.0
+2014,Canon Inc.,Yes,Japan,Office Electronics,1.53,M. Env. Japan,19.0
+2013,Cargill,No,USA,Food Products,1.0,ISO,1.3
+2014,Cargill,No,USA,Food Products,1.0,ISO,1.3
+2013,AVK,Yes,United Kingdom,Trading Companies & Distributors,13.0,PAS2050,31.33
+2014,AVK,Yes,United Kingdom,Trading Companies & Distributors,13.0,PAS2050,30.05
+2013,AVK,Yes,United Kingdom,Trading Companies & Distributors,41.0,PAS2050,94.08
+2013,AVK,Yes,United Kingdom,Trading Companies & Distributors,23.0,PAS2050,44.27
+2014,AVK,Yes,United Kingdom,Trading Companies & Distributors,23.0,PAS2050,33.44
+2014,AVK,Yes,United Kingdom,Trading Companies & Distributors,41.0,PAS2050,62.63
+2014,AVK,Yes,United Kingdom,Trading Companies & Distributors,7.0,PAS2050,57.07
+2016,Pacific Coast Producers,No,USA,Food Products,907.19,GHGP,187.161
+2013,"Shaw Industries Group, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",0.267906667,ISO,14.6
+2016,Retal,No,Lithuania,Containers & Packaging,0.03,GHGP,0.0108
+2013,"Casio Computer Co., Ltd.",Yes,Japan,Household Durables,45.0,EcoLeaf,2344.0
+2014,"Casio Computer Co., Ltd.",Yes,Japan,Household Durables,45.0,ISO,2344.0
+2016,"Compañía Española de Petróleos, S.A.U. CEPSA",No,Spain,"Oil, Gas & Consumable Fuels",1000.0,Not reported,6109.0
+2016,"Compañía Española de Petróleos, S.A.U. CEPSA",No,Spain,"Oil, Gas & Consumable Fuels",1000.0,Not reported,890.0
+2016,SunPower Corporation,No,USA,Electrical Equipment,18.6,ISO,281.0
+2013,Motorola Mobility,Yes,USA,Household Durables,0.127,Not reported,29.96
+2013,Innolux Corporation,Yes,Taiwan,"Electronic Equipment, Instruments & Components",14.96,PAS2050,145.0
+2013,Sanden,Yes,Japan,Machinery,342.462,EcoLeaf,3139.9
+2014,Sanden,Yes,Japan,Machinery,342.462,EcoLeaf,2403.2
+2015,Sanden,Yes,Japan,Not used for 2015 reporting,342.462,EcoLeaf,2268.1
+2015,Crimidesa,No,Spain,Not used for 2015 reporting,1000.0,GHGP,180.0
+2016,Crimidesa,No,Spain,Chemicals,1000.0,GHGP,140.0
+2013,"Cisco Systems, Inc.",Yes,USA,Communications Equipment,3.5,ISO,278.0
+2013,"Cisco Systems, Inc.",Yes,USA,Communications Equipment,2.0,ISO,1473.0
+2014,Perfection Bakeries Inc.,Yes,USA,Food & Staples Retailing,454.0,Not reported,164.0
+2015,Perfection Bakeries Inc.,Yes,USA,Not used for 2015 reporting,454.0,Not reported,179.0
+2016,Perfection Bakeries Inc.,No,USA,Beverages,0.454,Not reported,0.141
+2016,CJ Cheiljedang,Yes,South Korea,Beverages,1000.0,GHGP,24839.0
+2016,CJ Cheiljedang,Yes,South Korea,Beverages,1000.0,GHGP,21126.0
+2016,CJ Cheiljedang,Yes,South Korea,Beverages,1000.0,GHGP,18042.0
+2016,CJ Cheiljedang,Yes,South Korea,Beverages,1000.0,GHGP,26836.0
+2016,CJ Cheiljedang,Yes,South Korea,Beverages,1000.0,GHGP,3859.0
+2016,CJ Cheiljedang,No,South Korea,Beverages,1000.0,GHGP,114.8
+2016,CONTRAF-NICOTEX-TOBACCO GmbH,Yes,Germany,Tobacco,1.0,GHGP,16.884
+2013,Clariant AG,No,Switzerland,Chemicals,1.0,Not reported,26.0
+2013,Clariant AG,No,Switzerland,Chemicals,1.0,Not reported,26.0
+2014,Clariant AG,No,Switzerland,Chemicals,1.0,Not reported,26.0
+2016,Clariant AG,No,Switzerland,Chemicals,1.0,Not reported,26.0
+2016,Clariant AG,No,Switzerland,Chemicals,1.0,ISO,1.85
+2016,Clariant AG,No,Switzerland,Chemicals,1.0,ISO,5.0
+2016,Clariant AG,No,Switzerland,Chemicals,1.0,ISO,9.0
+2016,Clariant AG,Yes,Switzerland,Chemicals,0.0333,JEC/BIOGRACE,0.004
+2013,SGD Group,No,France,Personal Products,0.1,Not reported,0.124
+2013,SGD Group,No,France,Personal Products,0.1,Not reported,0.162
+2016,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,9.78
+2016,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,11.06
+2013,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,13.39
+2014,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,12.59
+2016,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,17.1
+2013,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,10.1
+2015,"Interface, Inc.",Yes,USA,Not used for 2015 reporting,4.164,ISO,10.98
+2013,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,14.99
+2014,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,14.09
+2016,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,11.3
+2013,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,17.15
+2015,"Interface, Inc.",Yes,USA,Not used for 2015 reporting,4.164,ISO,15.93
+2016,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,12.84
+2014,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,10.09
+2016,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,10.41
+2015,"Interface, Inc.",Yes,USA,Not used for 2015 reporting,4.164,ISO,13.63
+2015,"Interface, Inc.",Yes,USA,Not used for 2015 reporting,4.164,ISO,12.89
+2016,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,11.27
+2015,"Interface, Inc.",Yes,USA,Not used for 2015 reporting,4.164,ISO,15.44
+2016,"Interface, Inc.",Yes,USA,"Textiles, Apparel & Luxury Goods",4.164,ISO,15.42
+2013,Raizen,No,Brazil,"Oil, Gas & Consumable Fuels",789.0,GHGP,750.0
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,0.541,GHGP,0.34
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,0.541,GHGP,0.22
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,0.3,GHGP,0.17
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,2.0,GHGP,0.4
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,0.614,GHGP,0.35
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,0.541,GHGP,0.24
+2013,"Coca-Cola Enterprises, Inc.",No,USA,Beverages,0.492,GHGP,0.36
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,0.541,GHGP,0.24
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,2.0,GHGP,0.5
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,0.3,GHGP,0.15
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,0.541,GHGP,0.34
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,0.541,GHGP,0.22
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,2.0,GHGP,0.4
+2013,"Coca-Cola Enterprises, Inc.",Yes,USA,Beverages,0.3,GHGP,0.15
+2013,Compal Electronics,Yes,Taiwan,Computers & Peripherals,2.0,PAS2050,156.95
+2013,Compal Electronics,Yes,Taiwan,Computers & Peripherals,2.58,PAS2050,131.82
+2016,CNX Resources,Yes,USA,"Oil, Gas & Consumable Fuels",0.00127018,GHGP,0.063
+2015,Trinseo LLC,No,USA,Not used for 2015 reporting,1.0,Not reported,0.18
+2016,Trinseo LLC,No,USA,Chemicals,1000.0,Not reported,120.0
+2015,Trinseo LLC,No,USA,Not used for 2015 reporting,1.0,Not reported,0.21
+2015,Trinseo LLC,No,USA,Not used for 2015 reporting,1.0,Not reported,0.99
+2016,Trinseo LLC,No,USA,Chemicals,1000.0,Not reported,1153.0
+2016,Trinseo LLC,No,USA,Chemicals,1000.0,Not reported,210.0
+2015,Tennant Company,No,USA,Not used for 2015 reporting,181.0,Not reported,655.0
+2016,Tennant Company,Yes,USA,Electrical Equipment,181.0,Not reported,4468.7
+2016,Barilla Holding SpA,Yes,Italy,Food & Staples Retailing,0.19,ISO,0.546
+2014,Barilla Holding SpA,Yes,Italy,Food & Staples Retailing,1.0,ISO,1.279
+2015,Barilla Holding SpA,Yes,Italy,Not used for 2015 reporting,1.0,ISO,1.317
+2014,Barilla Holding SpA,Yes,Italy,Food & Staples Retailing,1.0,ISO,0.947
+2015,Barilla Holding SpA,Yes,Italy,Not used for 2015 reporting,1.0,ISO,0.848
+2014,Barilla Holding SpA,Yes,Italy,Food & Staples Retailing,1.0,ISO,1.027
+2015,Barilla Holding SpA,Yes,Italy,Not used for 2015 reporting,1.0,ISO,0.885
+2014,Barilla Holding SpA,Yes,Italy,Food & Staples Retailing,1.0,ISO,1.67
+2015,Barilla Holding SpA,Yes,Italy,Not used for 2015 reporting,1.0,ISO,1.701
+2014,Barilla Holding SpA,Yes,Italy,Food & Staples Retailing,1.0,ISO,0.926
+2015,Barilla Holding SpA,Yes,Italy,Not used for 2015 reporting,1.0,ISO,0.936
+2014,Barilla Holding SpA,No,Italy,Food & Staples Retailing,0.14,ISO,0.181
+2015,Barilla Holding SpA,No,Italy,Not used for 2015 reporting,0.14,ISO,0.211
+2014,Barilla Holding SpA,No,Italy,Food & Staples Retailing,0.27,ISO,0.316
+2015,Barilla Holding SpA,No,Italy,Not used for 2015 reporting,0.27,ISO,0.365
+2016,Barilla Holding SpA,No,Italy,Food & Staples Retailing,0.27,ISO,0.386
+2014,Barilla Holding SpA,No,Italy,Food & Staples Retailing,0.275,ISO,0.323
+2015,Barilla Holding SpA,Yes,Italy,Not used for 2015 reporting,0.275,ISO,1.236
+2016,Barilla Holding SpA,No,Italy,Food & Staples Retailing,0.275,ISO,0.34
+2016,Barilla Holding SpA,No,Italy,Food & Staples Retailing,1.0,ISO,1.33
+2013,Bumble Bee Foods LLC,Yes,USA,Food Products,0.179,Not reported,0.68
+2013,Bumble Bee Foods LLC,Yes,USA,Food Products,0.179,Not reported,0.39
+2013,Stonyfield Farm Inc,No,USA,Food Products,1000.0,PAS2050,1361.0
+2014,Stonyfield Farm Inc,No,USA,Food Products,1000.0,PAS2050,1360.0
+2014,Tata Steel Europe,No,United Kingdom,Metals & Mining,1.0,ISO,1.1
+2014,Tata Steel Europe,No,United Kingdom,Metals & Mining,1.0,ISO,1.2
+2014,Tata Steel Europe,No,United Kingdom,Metals & Mining,1.0,ISO,1.05
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.12,ISO,1.69
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.0465,ISO,0.33
+2015,Ajinomoto Co.Inc.,Yes,Japan,Not used for 2015 reporting,25.0,CFP Japan,130.0
+2017,Ajinomoto Co.Inc.,Yes,Japan,Beverages,25.0,ISO,130.0
+2017,Ajinomoto Co.Inc.,Yes,Japan,Beverages,20.0,ISO,301.0
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.126,ISO,0.74
+2017,Ajinomoto Co.Inc.,Yes,Japan,Beverages,25.0,ISO,319.0
+2017,Ajinomoto Co.Inc.,Yes,Japan,Beverages,20.0,ISO,433.0
+2017,Ajinomoto Co.Inc.,Yes,Japan,Beverages,20.0,ISO,585.0
+2017,Ajinomoto Co.Inc.,Yes,Japan,Beverages,20.0,ISO,393.0
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.011,ISO,0.03
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.4,ISO,1.01
+2017,Ajinomoto Co.Inc.,Yes,Japan,Beverages,20.0,ISO,58.0
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.058,ISO,0.5
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.12,ISO,0.58
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.075,ISO,0.24
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.4,ISO,1.07
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.085,ISO,0.58
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.25,ISO,0.2
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,25.0,ISO,780.0
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.09,ISO,0.27
+2017,Ajinomoto Co.Inc.,No,Japan,Beverages,0.1,ISO,0.23
+2017,Ajinomoto Co.Inc.,Yes,Japan,Beverages,12.0,ISO,155.0
+2016,Agraz,No,Spain,Food Products,220.0,GHGP,155.71
+2016,Agraz,No,Spain,Food Products,25.0,GHGP,12.52
+2016,Agraz,No,Spain,Food Products,238.0,GHGP,155.78
+2016,Agraz,No,Spain,Food Products,25.0,GHGP,16.22
+2014,Martin Bauer GmbH,No,Germany,Food Products,0.002,Not reported,0.02041
+2015,Martin Bauer GmbH,No,Germany,Food Products,0.002,Not reported,0.02041
+2015,Mpact Limited,No,South Africa,Not used for 2015 reporting,1000.0,Not reported,871.0
+2013,Times Microwave Systems,No,USA,Electrical Equipment,0.03,Not reported,0.0295
+2014,Times Microwave Systems,No,USA,Electrical Equipment,0.03,EICC Tool,0.0255
+2015,Times Microwave Systems,No,USA,Not used for 2015 reporting,0.03,EICC Tool,0.023
+2016,Humanscale Corporation,No,USA,Commercial Services & Supplies,59.02,ISO,39.5
+2016,Humanscale Corporation,No,USA,Commercial Services & Supplies,16.78,ISO,34.0
+2013,"Daikin Industries, Ltd.",Yes,Japan,Electrical Equipment,17.46331,ISO,3653.0
+2014,"Daikin Industries, Ltd.",Yes,Japan,Building Products,17.46331,ISO,3505.0
+2015,"Daikin Industries, Ltd.",Yes,Japan,Electrical Equipment,17.46331,ISO,3505.0
+2017,"Daikin Industries, Ltd.",Yes,Japan,Building Products,17.46331,ISO,4218.0
+2017,"Daikin Industries, Ltd.",Yes,Japan,Building Products,149.685,ISO,51066.0
+2017,"Daikin Industries, Ltd.",Yes,Japan,Building Products,128.367,ISO,39653.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1790.0,ISO,57100.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1735.0,ISO,40600.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1425.0,ISO,30500.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1535.0,ISO,31500.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1850.0,ISO,48800.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1730.0,ISO,69000.0
+2016,Daimler AG,No,Germany,Auto Components,1200.0,ISO,32000.0
+2016,Daimler AG,No,Germany,Auto Components,1200.0,ISO,34000.0
+2016,Daimler AG,No,Germany,Auto Components,1650.0,ISO,12000.0
+2016,Daimler AG,No,Germany,Auto Components,1400.0,ISO,36000.0
+2016,Daimler AG,No,Germany,Auto Components,1800.0,ISO,39000.0
+2016,Daimler AG,No,Germany,Auto Components,1925.0,ISO,24000.0
+2016,Daimler AG,No,Germany,Auto Components,1200.0,ISO,31000.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1425.0,ISO,32500.0
+2016,Daimler AG,No,Germany,Auto Components,2220.0,ISO,60000.0
+2016,Daimler AG,No,Germany,Auto Components,1500.0,ISO,50000.0
+2016,Daimler AG,No,Germany,Auto Components,2320.0,ISO,41000.0
+2016,Daimler AG,Yes,Germany,Auto Components,2100.0,ISO,38000.0
+2016,Daimler AG,Yes,Germany,Auto Components,1925.0,ISO,26000.0
+2016,Daimler AG,No,Germany,Auto Components,1400.0,ISO,33000.0
+2016,Daimler AG,No,Germany,Auto Components,2500.0,ISO,39000.0
+2016,Daimler AG,No,Germany,Auto Components,2000.0,ISO,27000.0
+2016,Daimler AG,No,Germany,Auto Components,3500.0,ISO,91000.0
+2016,Daimler AG,No,Germany,Auto Components,3500.0,ISO,39000.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1505.0,ISO,50500.0
+2016,Daimler AG,No,Germany,Auto Components,2050.0,ISO,85000.0
+2016,Daimler AG,No,Germany,Auto Components,2715.0,ISO,51000.0
+2016,Daimler AG,No,Germany,Auto Components,2595.0,ISO,66000.0
+2016,Daimler AG,No,Germany,Auto Components,2585.0,ISO,38000.0
+2016,Daimler AG,No,Germany,Auto Components,2065.0,ISO,72000.0
+2016,Daimler AG,No,Germany,Auto Components,2015.0,ISO,45000.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1580.0,ISO,27400.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1680.0,ISO,47200.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,2110.0,Not reported,43600.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,2015.0,ISO,54000.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1725.0,ISO,22600.0
+2015,Daimler AG,No,Germany,Not used for 2015 reporting,1490.0,ISO,30000.0
+2013,Danone,Yes,France,Food Products,1.0,PAS2050,1.531
+2013,Danone,Yes,France,Food Products,1.0,PAS2050,1.297
+2013,Danone,Yes,France,Food Products,1.0,PAS2050,0.174
+2015,Danone,Yes,France,Not used for 2015 reporting,1.0,PAS2050,0.145
+2015,Danone,Yes,France,Not used for 2015 reporting,1.0,Not reported,2.279
+2015,Danone,Yes,France,Not used for 2015 reporting,1.0,Not reported,1.26
+2015,Danone,Yes,France,Not used for 2015 reporting,1.0,Not reported,2.253
+2016,Air Liquide,No,France,Chemicals,1.785714286,Not reported,0.567
+2016,Air Liquide,No,France,Chemicals,1.25,Not reported,0.501
+2014,Darfon Electronics Corp,No,Taiwan,Computers & Peripherals,0.445,PAS2050,10.41
+2015,Darfon Electronics Corp,No,Taiwan,Not used for 2015 reporting,0.158,PAS2050,0.89
+2016,Delta Electronics,Yes,Taiwan,"Electronic Equipment, Instruments & Components",0.26,PAS2050,1.86
+2016,Delta Electronics,Yes,Taiwan,"Electronic Equipment, Instruments & Components",0.363,PAS2050,7.9
+2016,Delta Electronics,Yes,Taiwan,"Electronic Equipment, Instruments & Components",81.918782,PAS2050,686.42
+2016,Delta Electronics,Yes,Taiwan,"Electronic Equipment, Instruments & Components",4.1,ISO,69.437
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,2.12,Not reported,348.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,2.56,Not reported,408.0
+2013,Dell Inc.,No,USA,Computers & Peripherals,2.52,ISO,350.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,1.36,Not reported,310.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,1.63,Not reported,276.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,7.03,Not reported,480.0
+2013,Dell Inc.,No,USA,Computers & Peripherals,11.7,ISO,800.0
+2013,Dell Inc.,No,USA,Computers & Peripherals,26.1,ISO,6360.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,26.1,Not reported,6360.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,5.7,Not reported,624.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,6.0,Not reported,667.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,2.0,Not reported,314.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,2.22,Not reported,309.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,2.0,Not reported,292.0
+2015,Dell Inc.,Yes,USA,Not used for 2015 reporting,2.3,Not reported,311.0
+2013,Akzo Nobel,No,Netherlands,Chemicals,1.0,GHGP,5.5
+2014,Akzo Nobel,No,Netherlands,Chemicals,1000.0,GHGP,5500.0
+2015,Akzo Nobel,No,Netherlands,Not used for 2015 reporting,1000.0,GHGP,6500.0
+2016,Akzo Nobel,No,Netherlands,Chemicals,1000.0,GHGP,6240.0
+2014,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,3100.0
+2013,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,2000.0
+2014,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,2000.0
+2014,Akzo Nobel,No,Netherlands,Chemicals,1000.0,GHGP,4900.0
+2015,Akzo Nobel,Yes,Netherlands,Not used for 2015 reporting,1000.0,GHGP,4700.0
+2016,Akzo Nobel,No,Netherlands,Chemicals,1000.0,GHGP,1320.0
+2016,Akzo Nobel,No,Netherlands,Chemicals,1000.0,Not reported,141.0
+2016,Akzo Nobel,No,Netherlands,Chemicals,1000.0,Not reported,440.0
+2016,Akzo Nobel,No,Netherlands,Chemicals,1.0,GHGP,2.85
+2016,Akzo Nobel,No,Netherlands,Chemicals,1000.0,Not reported,1800.0
+2013,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,1600.0
+2014,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,1600.0
+2015,Akzo Nobel,Yes,Netherlands,Not used for 2015 reporting,1000.0,GHGP,1600.0
+2013,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,2200.0
+2014,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,2200.0
+2015,Akzo Nobel,Yes,Netherlands,Not used for 2015 reporting,1000.0,GHGP,2200.0
+2013,Akzo Nobel,Yes,Netherlands,Chemicals,1.0,GHGP,3.0
+2014,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,3420.0
+2015,Akzo Nobel,Yes,Netherlands,Not used for 2015 reporting,1000.0,GHGP,2580.0
+2016,Akzo Nobel,No,Netherlands,Chemicals,1.0,GHGP,2.54
+2013,Akzo Nobel,Yes,Netherlands,Chemicals,1.0,GHGP,2.2
+2014,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,3010.0
+2015,Akzo Nobel,Yes,Netherlands,Not used for 2015 reporting,1000.0,GHGP,2760.0
+2016,Akzo Nobel,No,Netherlands,Chemicals,1.0,GHGP,2.69
+2013,Akzo Nobel,Yes,Netherlands,Chemicals,1.0,GHGP,2.0
+2014,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,3400.0
+2015,Akzo Nobel,Yes,Netherlands,Not used for 2015 reporting,1000.0,GHGP,2910.0
+2016,Akzo Nobel,No,Netherlands,Chemicals,1.0,GHGP,3.56
+2013,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,1200.0
+2013,Akzo Nobel,Yes,Netherlands,Chemicals,1000.0,GHGP,220.0
+2013,Akzo Nobel,No,Netherlands,Chemicals,1000.0,GHGP,850.0
+2013,NCP ALCOHOLS,No,South Africa,Beverages,1041.666667,Not reported,2019.0
+2016,NCP ALCOHOLS,No,South Africa,Beverages,1041.666667,GHGP,1280.0
+2014,MUNTONS PLC,Yes,United Kingdom,Food & Staples Retailing,1000.0,Not reported,603.0
+2015,MUNTONS PLC,No,United Kingdom,Not used for 2015 reporting,1000.0,GHGP,520.0
+2016,MUNTONS PLC,Yes,United Kingdom,Beverages,1000.0,GHGP,561.0
+2016,MUNTONS PLC,No,United Kingdom,Beverages,1000.0,GHGP,947.0
+2016,MUNTONS PLC,No,United Kingdom,Beverages,1000.0,GHGP,599.0
+2016,MUNTONS PLC,No,United Kingdom,Beverages,1000.0,GHGP,240.0
+2016,BORMIOLI LUIGI,No,Italy,Containers & Packaging,0.354,ISO,0.944
+2016,BORMIOLI LUIGI,No,Italy,Containers & Packaging,0.195,ISO,0.531
+2015,HUMAX ELECTRONICS CO LTD,Yes,South Korea,Not used for 2015 reporting,1.98804,ISO,79.188
+2014,Maxxis International,No,Taiwan,Auto Components,12.7,Not reported,105.924
+2013,CartOne S.r.l.,Yes,Italy,Containers & Packaging,1.0,EPD,1.16
+2013,Fabrica de Tapas Bavaria,No,Colombia,Beverages,0.00235,GHGP,0.0004
+2014,Fabrica de Tapas Bavaria,No,Colombia,Beverages,0.00235,GHGP,0.00043
+2013,SHENYANG DONGRUI,No,China,Chemicals,1.0,Not reported,70.0
+2013,SHENYANG DONGRUI,No,China,Chemicals,1.0,Not reported,6.0
+2014,"YONYU Plastics (Shanghai) Co.,Ltd",No,USA,Containers & Packaging,0.048,GHGP,0.07
+2014,"YONYU Plastics (Shanghai) Co.,Ltd",No,USA,Containers & Packaging,0.0434,GHGP,0.01
+2016,PT Fajar Surya Wisesa Tbk,No,Indonesia,Containers & Packaging,1000.0,Not reported,721.0
+2013,PURECIRCLE USA,No,Malaysia,Food Products,1.0,Not reported,65.71
+2013,PURECIRCLE USA,No,Malaysia,Food Products,1.0,Not reported,47.51
+2013,PURECIRCLE USA,No,Malaysia,Food Products,1.0,Not reported,45.81
+2013,PURECIRCLE USA,No,Malaysia,Food Products,1.0,Not reported,74.64
+2015,MI (Michaelleides),Yes,Greece,Not used for 2015 reporting,1.0,GHGP,0.7
+2014,Alcoa Corp.,Yes,USA,Metals & Mining,1000.0,ISO,3940.0
+2016,Alcoa Corp.,No,USA,Metals & Mining,1000.0,ISO,410.0
+2014,Alcoa Corp.,No,USA,Metals & Mining,1000.0,Not reported,5340.0
+2016,Alcoa Corp.,No,USA,Metals & Mining,1000.0,ISO,410.0
+2016,Alcoa Corp.,No,USA,Metals & Mining,1000.0,ISO,2219.0
+2016,Alcoa Corp.,No,USA,Metals & Mining,1000.0,ISO,6512.0
+2016,Alcoa Corp.,No,USA,Metals & Mining,1000.0,ISO,720.0
+2014,DRAGON WILL ENTERPRISE,No,China,Household Durables,1.3,Bilan Carbone,50.0
+2016,ZHEJIANG WANFENG AUTO WHEEL CO LTD,No,China,Electrical Equipment,1.0,Not reported,2.923
+2013,Electrolux,Yes,Sweden,Household Durables,6.4,EUPEF,409.0
+2014,Electrolux,Yes,Sweden,Household Durables,6.4,EUPEF,409.0
+2015,Electrolux,Yes,Sweden,Not used for 2015 reporting,6.4,Not reported,409.0
+2013,"Elitegroup computer systems co., Ltd.",Yes,Taiwan,Computers & Peripherals,1.3,PAS2050,213.17
+2013,"Elitegroup computer systems co., Ltd.",No,Taiwan,Computers & Peripherals,9.26,GHGP,1.672
+2016,WOLF,No,Germany,Auto Components,450.0,ISO,502.0
+2016,WOLF,No,Germany,Auto Components,450.0,ISO,446.0
+2017,"Fuji Xerox Co., Ltd.",Yes,Japan,"Electronic Equipment, Instruments & Components",26.0,ISO,2300.0
+2017,"Fuji Xerox Co., Ltd.",Yes,Japan,"Electronic Equipment, Instruments & Components",33.0,ISO,2400.0
+2013,"Fuji Xerox Co., Ltd.",Yes,Japan,Office Electronics,13.0,GHGP,491.0
+2013,"Fuji Xerox Co., Ltd.",Yes,Japan,Office Electronics,24.0,GHGP,573.0
+2014,"Fuji Xerox Co., Ltd.",Yes,Japan,Office Electronics,25.600753,ISO,1400.0
+2015,"Fuji Xerox Co., Ltd.",Yes,Japan,Not used for 2015 reporting,25.600753,ISO,1400.0
+2017,"Fuji Xerox Co., Ltd.",Yes,Japan,"Electronic Equipment, Instruments & Components",25.600753,ISO,1400.0
+2014,"Fuji Xerox Co., Ltd.",Yes,Japan,Office Electronics,115.0,ISO,1500.0
+2015,"Fuji Xerox Co., Ltd.",Yes,Japan,Not used for 2015 reporting,115.0,ISO,1500.0
+2017,"Fuji Xerox Co., Ltd.",Yes,Japan,"Electronic Equipment, Instruments & Components",31.7,ISO,1200.0
+2017,"Fuji Xerox Co., Ltd.",Yes,Japan,"Electronic Equipment, Instruments & Components",19.0,ISO,2300.0
+2017,"Fuji Xerox Co., Ltd.",Yes,Japan,"Electronic Equipment, Instruments & Components",31.7,ISO,1300.0
+2017,"Fuji Xerox Co., Ltd.",Yes,Japan,"Electronic Equipment, Instruments & Components",19.0,ISO,2300.0
+2017,"Fuji Xerox Co., Ltd.",Yes,Japan,"Electronic Equipment, Instruments & Components",31.7,ISO,1300.0
+2013,Fujitsu Ltd.,Yes,Japan,Computers & Peripherals,5.89,ISO,140.1
+2014,Fujitsu Ltd.,Yes,Japan,IT Services,5.89,ISO,140.1
+2017,Fujitsu Ltd.,No,Japan,Software,7.0,ISO,690.0
+2013,General Motors Company,No,USA,Automobiles,1820.086,GHGP,27588.0
+2014,General Motors Company,Yes,USA,Automobiles,1820.086,GHGP,33933.0
+2015,General Motors Company,Yes,USA,Not used for 2015 reporting,1820.086,GHGP,39100.0
+2016,General Motors Company,No,USA,Auto Components,1820.086,GHGP,36386.0
+2013,Georg Fischer,Yes,Switzerland,Machinery,1.0,Not reported,2.42
+2016,"CNX Coal Resources, LP",Yes,USA,"Oil, Gas & Consumable Fuels",1000.0,GHGP,3025.0
+2014,"Hitachi, Ltd.",No,Japan,"Electronic Equipment, Instruments & Components",2270.0,ISO,9328.0
+2016,"Hino Motors, Ltd.",Yes,Japan,Auto Components,2272.33,M. Env. Japan v2.2,191687.0
+2014,Holmen,No,Sweden,Paper & Forest Products,1000.0,Not reported,370.0
+2015,Holmen,Yes,Sweden,Not used for 2015 reporting,1000.0,CEPI,211.0
+2014,Holmen,No,Sweden,Paper & Forest Products,1000.0,Not reported,292.0
+2015,Holmen,Yes,Sweden,Not used for 2015 reporting,1000.0,CEPI,210.0
+2015,SK Hynix,No,South Korea,Not used for 2015 reporting,0.0084,Carbon Labeling Certificate,0.634
+2015,SK Hynix,No,South Korea,Not used for 2015 reporting,0.0084,Carbon Labeling Certificate,0.691
+2015,SK Hynix,No,South Korea,Not used for 2015 reporting,0.0084,Not reported,0.735
+2013,Arcelor Mittal,No,Luxembourg,Metals & Mining,4.7,ISO,7.3
+2013,Arcelor Mittal,No,Luxembourg,Metals & Mining,140000.0,ISO,167000.0
+2015,Ingenico,Yes,France,Not used for 2015 reporting,0.6,GHGP,49.98
+2013,Intel Corporation,Yes,USA,Computers & Peripherals,0.4082331,Not reported,29.0
+2014,Intel Corporation,Yes,USA,Semiconductors & Semiconductor Equipment,0.4082331,Not reported,29.0
+2013,Intel Corporation,Yes,USA,Computers & Peripherals,0.4082331,Not reported,14.0
+2014,Intel Corporation,Yes,USA,Semiconductors & Semiconductor Equipment,0.4082331,Not reported,14.0
+2013,Intel Corporation,Yes,USA,Computers & Peripherals,0.4082331,Not reported,7.0
+2014,Intel Corporation,Yes,USA,Semiconductors & Semiconductor Equipment,0.4082331,Not reported,7.0
+2017,Johnson Matthey,No,United Kingdom,Chemicals,2.0,ISO,188.0
+2017,Johnson Matthey,No,United Kingdom,Chemicals,2.0,ISO,63.0
